@@ -1,0 +1,22 @@
+.each-team-card {
+  background-color: #ffffff33;
+  min-height: 160px;
+  min-width: 100%;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.team-item-link,
+.team-item-link:hover {
+  color: white;
+  text-decoration: none;
+}
+.team-logo {
+  width: 80px;
+}
+.team-name {
+  font-size: ;
+}
+li {
+  list-style-type: none;
+}

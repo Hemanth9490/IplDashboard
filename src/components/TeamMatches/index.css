@@ -1,0 +1,39 @@
+.latest-match {
+  background-color: #1e293b;
+  color: white;
+  border-radius: 10px;
+}
+.last-match-logo {
+  width: 100px;
+}
+.team-matches-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.RCB {
+  background-color: #d91c1f;
+}
+.KKR {
+  background-color: #7b7cca;
+}
+.KXP {
+  background-color: #da237b;
+}
+.CSK {
+  background-color: #f7db00;
+}
+.RR {
+  background-color: blue;
+}
+.MI {
+  background-color: blue;
+}
+.SH {
+  background-color: #f26d22;
+}
+.DC {
+  background-color: #0f2a5f;
+}

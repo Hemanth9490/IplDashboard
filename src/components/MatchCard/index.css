@@ -1,0 +1,11 @@
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
+.eachMatchCard {
+  border-radius: 10px;
+  min-height: 300px;
+  background-color: #1e293b;
+}
